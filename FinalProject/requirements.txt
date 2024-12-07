@@ -1,0 +1,8 @@
+kaggle
+kagglehub
+pandas
+numpy
+transformers
+torch
+fuzzywuzzy
+python-Levenshtein
